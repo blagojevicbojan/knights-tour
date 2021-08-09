@@ -1,0 +1,9 @@
+.cells th {
+    height: 60px;
+    width: 60px;
+}
+
+.inverse {
+    color: #292b2c;
+}
+
